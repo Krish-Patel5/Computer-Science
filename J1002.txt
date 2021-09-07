@@ -1,0 +1,67 @@
+Name: Krish Patel
+Journal: J1002
+Date: 19-Aug-2021
+
+I received assistance from: Mrs.Jang
+
+I assisted: No One
+
+1.1:
+The World Wide Web and network printing occasionally is what I use. 
+
+2.1:
+It can be important because both Jack and john can make different files within the directory. It can also help organize everything.
+
+3.1:
+The home directory is very important because it is the main directory which is why there is a symbol.
+
+4.1:
+The promt changed and it it is helpful because it can show that you are in a directory.
+
+5.1:
+When you press the up arrow, you go to a past command you typed.
+
+5.2:
+When you press the down arrow, it goes to a more recent command.
+
+6.1:
+It was not because it is now a file. The text is probably within the file.
+
+7.1
+The tree command can show directories and files and show which files go in which directory. ls can show what is in a directory.
+
+7.2
+When you want to know everything, you would use tree. When you only want to know a single file in a directory, you would use ls.
+
+8.1
+Sleep can make commands delayed when needed. The argument to sleep can allow something to happen before the new command.
+
+8.2
+The reason this is, is because there are instances where it is needed. When shutting a computer down the stuff in hte back has to turn off first. It is similar to a computer shutting down.
+
+9.1
+It is not different than what I expected.
+
+9.2
+You are able to run other commands while it is running in the back.
+
+9.3
+The numbers might represent that specific sleep command if there is more than one.
+
+10.1
+I observe that it shows the sleep command.
+
+10.2
+It shows if it is still running or if it is finished.
+
+What did I learn? What is the "big idea"?
+I learned basic commands to use within this program. The big idea is to learn the beginning to this software.
+
+What challenges did I encounter?
+I did not encounter any major challenges because I was able to follow the wiki well.
+
+How could this experience be improved?
+It was good how it was. I do not think it could be improved.
+
+Free Reflection: How has what I've learned impacted my thinking?
+I am able to understand the commands very easily now. When given directions, I can follow with ease.
